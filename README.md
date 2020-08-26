@@ -3,7 +3,7 @@
 ### for c++
 sh build.sh
 ### for ros
-add `export ROS_PACKAGE_PATH=${ROS_PACKAGE_PATH}:/home/kadn/github/ORB_SLAM2_SAVEMAP/Examples/ROS`  to your .bashrc
+add `export ROS_PACKAGE_PATH=${ROS_PACKAGE_PATH}:~/github/ORB_SLAM2_SAVEMAP/Examples/ROS`  to your .bashrc
 ```
 source .bashrc
 cd YOUR/PATH/TO/ORB_SLAM2_SAVEMAP/Examples/ROS/ORB_SLAM2
